@@ -1,0 +1,1 @@
+Mesen.exe ./ROM/SuperMarioWorld.nes
